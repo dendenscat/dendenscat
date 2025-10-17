@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm dendencat!
 
-<!--
-**dendenscat/dendenscat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+**I specialize in DevOps, cloud automation, and building reliable infrastructure.**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Top Skills
+
+- **Python**
+- **Go**
+- **ShellScript**
+- **Docker**
+- **Kubernetes**
+- **Ansible**
+
+---
+
+### 🌟 Featured Projects
+
+- [techblog_cms](https://github.com/dendencat/techblog_cms)  
+  _A simple CMS with an AI editor feature (coming soon)_  
+
+- [minimal-container](https://github.com/dendencat/minimal-container)  
+  _Minimal container experiments_  
+
+- [rslcheck](https://github.com/dendencat/rslcheck)  
+  _Tools for reliability and safety checks_  
+
+---
+
+### 💻 What I Do
+- **Frontend Engineering**
+- **Backend Engineering**
+- Building modern DevOps pipelines
+
+---
+
+### 🐱🐶 Fun Facts
+
+- I love cats and dogs (but don’t have one yet!)  
+
+---
